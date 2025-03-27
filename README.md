@@ -1,13 +1,39 @@
-![Riadh farahti](https://instagram.fnbe1-1.fna.fbcdn.net/v/t51.2885-15/e35/71959401_419777725604285_5940346172567639535_n.jpg?_nc_ht=instagram.fnbe1-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=kkLn_I6ZAVcAX_CmyGo&oh=5c1617a0eee3df4081cc21e6cdabf1c1&oe=5F553425 "Logo Riadh farhati")
+<h1 align="left">Hey 👋 What's up?</h1>
 
-# About Me
-A self taught talented developer who can improve any business in the field of the technology of information and of the communications using his passion, his skills and his commitment.
+###
 
+<p align="left">Farhati riadh</p>
 
+###
 
-# Find me around the web 🌎
-posting pictures on [Instagram](https://www.instagram.com/riadhfarhati)  
-talking professional on [LinkedIn](https://www.linkedin.com/in/riadh-fahrati-3514a210a)
+<h2 align="left">About me</h2>
 
+###
 
- 👌 🤓 🤓
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
+
+###
